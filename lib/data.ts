@@ -1,9 +1,9 @@
 export const profile = {
   name: "Said Nasser",
-  role: "Systems Operator / Full-Stack Developer",
+  role: "Product Engineer (Full-Stack)",
   location: "Oslo, Norway",
   summary:
-    "System developer building and deploying production software. Backend systems, server infrastructure, and full-stack web applications for day-to-day business operations.",
+    "Product engineer building and deploying production software. Backend systems, server infrastructure, and full-stack web applications for day-to-day business operations.",
   email: "sdnssr001@gmail.com",
   github: "https://github.com/see-stack",
   linkedin: "https://linkedin.com/in/said-nasser",

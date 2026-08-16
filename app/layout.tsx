@@ -13,9 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Said Nasser — Systems / Full-Stack Developer",
+  title: "Said Nasser — Product Engineer (Full-Stack)",
   description:
-    "System developer building and deploying production software. Backend systems, server infrastructure, and full-stack web applications.",
+    "Product engineer building and deploying production software. Backend systems, server infrastructure, and full-stack web applications.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
