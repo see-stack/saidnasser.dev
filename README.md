@@ -1,34 +1,39 @@
 # saidnasser.dev
 
-My personal portfolio and blog — systems / full-stack development, built in public.
+My personal portfolio website showcasing my projects, open-source contributions, technical writing, and work as a Product Engineer.
 
-✨ Technologies
+Built to document my journey building AI workflows, developer tools, and modern web applications.
 
-- Next.js 16
-- React 19
+## ✨ Features
+
+- ⚡ Built with Next.js and TypeScript
+- 🎨 Modern responsive UI
+- 🌍 SEO optimized
+- 📝 Technical blog with Markdown
+- 🚀 Project showcases and case studies
+- 🧩 Component-based architecture
+
+## 🛠️ Tech Stack
+
+- Next.js
+- React
 - TypeScript
-- Tailwind CSS 4
+- Tailwind CSS
 - react-markdown + gray-matter
 
-🚀 Features
+## 🚀 Running Locally
 
-- Bento-style layout with a live clock and local time
-- Markdown blog — posts are just `.md` files in a folder
-- Profile card with projects, experience, and OSS contributions
-- A tool stack section showing what I actually use day to day
-- Fully static — pre-rendered and fast by default
+Clone the repository:
 
-📍 The Process
+```bash
+git clone https://github.com/see-stack/saidnasser.dev.git
+cd saidnasser.dev
+npm install
+npm run dev
+```
 
-The old portfolio got heavy and I was over-polishing it, so I stripped it back and rebuilt it minimal — Next.js, a bento layout, a markdown blog, and a live clock. The goal was to ship something clean that shows what I actually do, not spend another month perfecting it. Went with Next.js because it's what I want to work with professionally, and the blog runs on plain markdown so writing a post is just dropping a file in a folder.
+Open http://localhost:3000 in your browser.
 
-🚦 Running the Project
+## 🎞️ Preview
 
-- Clone the repository
-- Install dependencies: `npm install`
-- Run the development server: `npm run dev`
-- Open http://localhost:3000 in your browser
-
-🎞️ Preview
-
-[add a screenshot here]
+![Portfolio preview](preview.gif)
