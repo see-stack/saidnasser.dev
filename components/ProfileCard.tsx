@@ -158,12 +158,13 @@ export default function ProfileCard() {
               </p>
             </div>
 
-            <button
-              onClick={() => window.print()}
-              className="no-print mt-5 w-full rounded-full bg-accent py-2.5 font-semibold text-background transition-opacity hover:opacity-90"
+            <a
+              href="/cv.pdf"
+              download="Said-Nasser-CV.pdf"
+              className="no-print mt-5 block w-full rounded-full bg-accent py-2.5 text-center font-semibold text-background transition-opacity hover:opacity-90"
             >
               Download CV
-            </button>
+            </a>
 
             <div className="mt-4 flex items-center justify-between text-sm text-muted">
               <span className="flex items-center gap-2">
