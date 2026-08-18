@@ -44,12 +44,12 @@ export const education = [
   {
     degree: "B.Sc. Computer Engineering",
     school: "UiT The Arctic University of Norway",
-    date: "2016 – 2021",
+    date: "2022 – 2025",
   },
   {
     degree: "Exchange Studies",
     school: "University of Washington",
-    date: "2019 – 2020",
+    date: "2024 – 2025",
   },
 ];
 
