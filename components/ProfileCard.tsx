@@ -103,7 +103,7 @@ export default function ProfileCard() {
           className="flex min-w-0 flex-1 items-center gap-4 text-left"
         >
           <Image
-            src="/said-profile.jpeg"
+            src="/said-nasser.jpg"
             alt={profile.name}
             width={48}
             height={48}
